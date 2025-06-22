@@ -4,19 +4,6 @@
 Welcome to the **Java Full Stack Engineer (FSE)** Deep Skilling Program repository. This repository contains all Java-based practice exercises, weekly assignments, and hands-on tasks aligned with the 8-week digital nurture program.
 ## 📅 Weekly Module Overview (Based on Official Curriculum)
 
-| Week | Module Title                                               | Key Topics                                                                                 |
-|------|------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 1    | Design Patterns and Principles                             | SOLID, GoF Patterns (Creational, Structural, Behavioral)                                    |
-| 2    | Data Structures and Algorithms                             | Arrays, Linked Lists, Searching & Sorting, Complexity Analysis                              |
-| 3    | PL/SQL Programming                                         | PL/SQL basics, Cursors, Stored Procedures, Triggers                                         |
-| 4    | TDD & Logging Framework                                    | JUnit5, Mockito, Logging with SLF4J                                                         |
-| 5    | Spring Core and Maven                                      | Spring Basics, Dependency Injection, IoC, AOP, Maven build tool                             |
-| 6    | Spring Data JPA with Spring Boot + Hibernate               | ORM, JPA repositories, CRUD, Pagination, Projections, Hibernate features                    |
-| 7    | Spring REST & Microservices with Spring Boot 3 + Cloud    | RESTful APIs, DTOs, Content Negotiation, Microservices, Service Discovery, Spring Security  |
-| 8    | SPA (React Basics) + Final Review                          | Introduction to React, Component Basics, create-react-app, Final Project Review             |
-
----
-
 ## 📂 Folder Structure
 
 ```
